@@ -1,0 +1,22 @@
+.anaCerceve{
+    border: 1px solid gray;
+    margin: 0 5rem;
+    margin-top: 3rem;
+
+}
+.soruAlani{
+    background-color: rgb(183, 168, 168);
+    display: flex;
+    justify-content: space-between;
+    padding: 0.3rem 1rem;
+}
+.soruAlani:hover{
+    cursor:pointer;
+    background-color: rgb(122, 117, 117);}
+.soru{
+}
+.cevap{
+    background-color: beige;
+    padding: 0.3rem 2rem;
+    display: none;
+}
